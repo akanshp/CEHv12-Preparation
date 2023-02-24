@@ -1,6 +1,6 @@
 # CEHv12-Preparation
 
-This repository covers the entire curricullum of CEHv12 along with references to some important topics covered in CEHv12. 
+This repository covers the entire curriculum of CEHv12 along with references to some important topics covered in CEHv12. 
 
 # Important Notes
 
@@ -43,42 +43,18 @@ There are a total of 20 Modules covered in the version 12 of CEH, namely:
 
 # CEHv12 ------> Labs
 
-The amount of labs are different for each of the modules mentioned above. Not all modules have labs. 
-These labs have a fixed duration as mentioned in the official curricullum, however this duration will differ for you if you already have an understanding of these
-tools before.
-Below are the labs for each Module:
+Each Module have different no. of labs based on the content of that particular module. 
+The Labs have a fixed duration as per the curriculum. This duration will vary based on the individuals learning ability & past experience with the tools.
 
-1. Module 1: Total Labs 0
-2. Module 2: Total Labs 9
-3. Module 3: Total Labs 5
-  1. Lab-1-> Perform Host Discovery (Duration - )
-  2. Lab-2-> Perform Port & Service Discovery
-  3. Lab-3-> Perform OS Discovery
-  4. Lab-4-> Scan beyond IDS & Firewall
-  5. Lab-5-> Perform Network Scanning using various scanning tools
+![image](https://user-images.githubusercontent.com/122060190/221299841-23f66283-f53d-4ea4-867e-334cdd26094f.png)
+
   
-  Modules 	Total Labs & Duration	Labs Description
-1	Labs - 0 	Nill
-2	Labs - 9 & Duration - 220 mins	#Lab-1: Perform Footprinting through Search Engines #Lab-2:
-3	Labs - 5 & Duration - 130 mins	
-4		
-5		
-6		
-7		
-8		
-9		
-10		
-11		
-12		
-13		
-14		
-15		
-16		
-17		
-18		
-19		
-20		
-![image](https://user-images.githubusercontent.com/122060190/221277902-9527d751-6b3c-45ad-90b3-0d6adb52896f.png)
+# References
+
+EC-Council's official page: https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/cehv12-new-learning-framework/                                             
+
+CEHv12 Brochure: https://www.eccouncil.org/wp-content/uploads/2022/09/CEH-brochure.pdf                                        
+
 
 		
 
